@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loyal-vent-304903",
+  "private_key_id": "a034297af5ea34ec1ef98a467f7319f750684f24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTvqSaetRQmBVB\no0KsWd+z4/jJPd4vA9dF7gjdFM04BLt3ThF0FXN4kzTvsL69qWOxvVhc6uMi2XxN\nZeFsnvgDA2dfDowNVDmU9t9W1OUwiT0JYo12FrPvt2amMGYapGXTRDoDbQhUTqwF\ngnyQOIu2B8nhRJMdPq+X1aiKrN+AL0mX1HOln5FP0Wdmpg1/V9R+XvmqLYzZofX4\nUNOCDQfpKPxNA15pjgQ4TPYHEcQ+QbMftJSwTQ58SdUconGfLJ5JuaK41p3SfnR+\nlIzH7vaZXRV2vJ4UzgHWJDt7KXYUnulX7AahmKQIrZKYJpwo6oeHbG5/TLg4NJUu\nnqf/vnCZAgMBAAECggEAFtJT3GCDtKIHnHjzrS7MmQ9nl40G/us7jwpuQyHEUpbT\n+7Ja2Dedp++5w2G51ShGGfiN5wnb7DwjlRX3e2UQ1wZNZGXle2RKBn+rJ6kvgJEy\nFmpcU89zmlEai6vovVNdtC0E0ay1Opz2Fmvvb/3gNQDW5eQltP+2HjfFgBjMx/xe\nkKjd8ib2TIPW3DvLpQq8FE9wP/4KGmv5eI/iOmVAFTs0jPOeorXvq6048UWLGe23\nbTM0RXkfheIzCj85JOG2rM7BH4iqk8JnV8Gh6aW7E/8dldT2T1j6RvRCCusjd2AN\nsFE1PwiexFFR5DadT4pJCkV1ouO/y+L4dvZfZDKDzwKBgQDs+9ymHvF6Y2S8wFxU\nDT9qMhoHiA6HQ44b0vcLCNB2HY/oWc5i2F/mnjPEQCac7YayOAvDfKqzppYEYwKb\nhdnhD15geHLNipqVS6RI4080tuehr52QU4tC7wo26j6bd8DMRrpfEtnwVgnpLUxH\nKmT5ye7jq3tu8b/M+knEHxY8GwKBgQDkvFEnwGG1vVu+7LhOHnOiM1oSt8r4vVf5\nXhyq3w+lxANG3YJyvTZdebzTYhwxyl4QgqoferpdoA4igjMmBz5HM/ZTVFlfJu2Z\nbRKZV9WRzOxzubER++1afrQRPp8zmynbvpUjaHo/Lg9+hePBFRRK3tVqfH63/do7\nCq0zX5BpWwKBgQCxb15krvRki3jIbkpy0Dxz2bFthCxEkIsdQBaiF2ZlmXq/IEaL\n8a/ULw1ZWiLPCnT4iUgdhQEWY5sdC7jPEyfv/57NIkHqrWVSdQE7ZZ5PPMcvYxrZ\nDgROCEYgmcBojQA4spgmSSoObY0cHkNnYVGbSNtpcWKIzc6qvZdvlUsDkwKBgGVZ\nA2Rnm2OZSUNpQ6hpWbbupeRRRz+7NXWqO22CdD5wgTsu/pO0PphgTkgi2nc9QTxz\niMl16Yl+V4T2x477+p416di2MPs2FmS6rVkAUALQF5yXFFvxkhNcvJA/fO6yu3NA\nGHid3DyOPhNDY8yzeFBMN6d9DfCcK8upSWDP4P6tAoGBALTg898Czgg+MGJQ4xIN\nQC+b6ikTHKgeucm1ADAk1sQOZjAXQhWZmkWBd94CxdhUOW5nABjHR9FAIr660doM\nHFfx+FiMZkZHXfTm2w9LoH8oOPOzIRjI26pLPkJ/RKGifzp14qNA7Ksndz6JcSDQ\nBS6VENACbae7eEEbm0sbTBjj\n-----END PRIVATE KEY-----\n",
+  "client_email": "fluteerchatbotapp@loyal-vent-304903.iam.gserviceaccount.com",
+  "client_id": "116739799285831469780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fluteerchatbotapp%40loyal-vent-304903.iam.gserviceaccount.com"
+}
